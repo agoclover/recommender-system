@@ -1,12 +1,10 @@
 # README
 
-本仓库用于记录学习推荐系统过程中的心得和体会.
+本仓库用于记录学习推荐系统过程中的心得和体会. 以下内容为一些会议, 学者, 论文, 文章的整理.
 
-关于**机器学习**相关算法的内容, 请参考我的另一个仓库 🔗 [machine-learning](https://github.com/agoclover/machine-learning)
+👉 关于**机器学习**相关算法的内容, 请参考我的另一个仓库 🔗 [machine-learning](https://github.com/agoclover/machine-learning)
 
-关于推荐系统**知识框架**, 请参考此文件 🔗  [Recommender.xmind](Graphs/Recommender.xmind)
-
-以下内容为一些会议, 学者, 论文, 文章的整理.
+👉 关于推荐系统**知识框架**, 请参考此文件 🔗  [Recommender.xmind](Graphs/Recommender.xmind)
 
 
 
